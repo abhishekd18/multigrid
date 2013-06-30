@@ -1,0 +1,14 @@
+/* Source Code organization */
+1. The source code files (".c" files) are located in /src/ folder.
+2. The header files (".h" files) are located in /include/ folder.
+3. After compiling the code, the executable is created in /bin/ folder.
+4. /Input/ folder is created to deposit the input parameters file. 
+
+/* Instructions: How to compile the code */
+1. Go to src folder in the terminal.
+2. Type "make" and enter. The code will be compiled and executable will be created in /bin/.
+
+/* Instructions: How to run th program */
+1. Open the terminal in the main /Project1/ folder.
+2. Run "./run.sh" in the terminal.
+3. "./run.sh" is configured so as to generate the data and plots required for this project.
