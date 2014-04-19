@@ -1,0 +1,11 @@
+#n (in 2^n) Levels	
+4
+
+#Cycle(W or V)	Multigrid cycle type
+W
+
+#nu1	Presmoothing factor	
+1
+
+#nu2	Postsmoothing factor
+1

@@ -1,0 +1,12 @@
+/* Source Code organization */
+1. The source code files (".c" files) and header files (".h" files) are located in /src/ folder.
+
+/* Instructions: How to compile the code */
+1. Go to src folder in the terminal.
+2. Type "make" and enter. The code will be compiled and executable will be created.
+
+/* Instructions: How to run the program */
+1. Open the terminal in the main /Project2/ folder.
+2. Run "./run.sh" in the terminal.
+3. "./run.sh" is configured so as to generate the data and plots required for this project.
+4. To change the parameters, edit "parameters.inp" file
